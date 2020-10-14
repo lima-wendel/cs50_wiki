@@ -3,7 +3,7 @@ A Wikipedia-like online encyclopedia
 
 It's a CS50’s *Web Programming with Python and JavaScript* challenge from Harvard.
 
-DJANGO
+<h3>Lesson: DJANGO</h3> 
 
 <h4>Specification</h4>
 
